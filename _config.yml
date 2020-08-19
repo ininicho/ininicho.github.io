@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: nicho101002@gmail.com
-baseurl: "http://ininicho.github.io/ininicho.github.io"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
