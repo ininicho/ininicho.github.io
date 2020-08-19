@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: nicho101002@gmail.com
-baseurl: ""
+baseurl: "/"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
