@@ -42,8 +42,8 @@ author:
 pagination:
   enabled: true
   debug: false
-  paginate: 2
-  paginate_path: '/page/:num/'
+  per_page: 2
+  permalink: '/page/:num/'
   title: ':title'
   limit: 0
   sort_field: 'date'
