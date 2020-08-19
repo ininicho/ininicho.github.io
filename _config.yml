@@ -1,50 +1,48 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: nicho101002@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Nicholaus Suprapto
+title: Nicholaus' Thoughts
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Welcome to my personal blog. I write my random thoughts and post them here.
+url: http://ininicho.github.io/ininicho.github.io
+twitter_username: ininicho_
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/ininicho_
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
+    url: https://www.instagram.com/ininicho_/
   - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.linkedin.com/in/nicholaus-suprapto-73abb8190/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/ininicho
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: ininicho-github-io
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+# mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+# mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Nicholaus Suprapto
+    bio: Born Indonesian. Currently a freshman at University of Waterloo studying Mathematics. Tech enthusiast and food lover. 
+    url: http://github.com/ininicho
 
 # Pagination settings
 pagination:
   enabled: true
   debug: false
-  per_page: 12
+  per_page: 2
   permalink: '/page/:num/'
   title: ':title'
   limit: 0
