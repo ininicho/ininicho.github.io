@@ -8,9 +8,9 @@ name: Nicholaus Suprapto
 title: Nicholaus' Thoughts
 description: >
   Welcome to my personal blog. I write my random thoughts and post them here.
-url: http://ininicho.github.io/ininicho.github.io
+url: https://blissful-noether-3a6d05.netlify.app
 twitter_username: ininicho_
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/corruptsystem.jpg
 social:
   - name: twitter
     url: https://twitter.com/ininicho_
